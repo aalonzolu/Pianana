@@ -12,7 +12,7 @@ Piano hecho con Arduino + NodeJS y Bananas.
 #####Idea
 La idea es hacer un piano con bananas y al tocar las bananas se
 reproduzca un tono por cada banana.
-![IMG demo](https://raw.githubusercontent.com/andyalonzo/Pianana/master/pianana.jpg)
+![IMG demo](https://raw.githubusercontent.com/andyalonzo/Pianana/master/pianana.svg)
 ### Uso
 
 ```sh

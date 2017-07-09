@@ -2,14 +2,14 @@
 
 Piano hecho con Arduino + NodeJS y Bananas.
 
-#####Requisitos
+#### Requisitos
   - Arduino
   - NodeJS
   - Johnny-Five
   - Protoboard
   - Zumbador
   
-#####Idea
+#### Idea
 La idea es hacer un piano con bananas y al tocar las bananas se
 reproduzca un tono por cada banana.
 ![IMG demo](https://cdn.rawgit.com/andyalonzo/Pianana/master/pianana.svg)
